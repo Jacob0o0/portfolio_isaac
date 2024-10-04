@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio-isaac/build/static/css/main.3947d053.css",
-    "main.js": "/portfolio-isaac/build/static/js/main.55529d77.js",
-    "static/media/BonSaving_Home.png": "/portfolio-isaac/build/static/media/BonSaving_Home.65ecd53b0ca443d5fba8.png",
-    "static/media/IsaacPng.png": "/portfolio-isaac/build/static/media/IsaacPng.d3ad0eda5d0a33a710f6.png",
-    "static/media/ImagenFondo.png": "/portfolio-isaac/build/static/media/ImagenFondo.e7961f9aadf323af321f.png",
-    "static/media/F1_Home.png": "/portfolio-isaac/build/static/media/F1_Home.255fbee1f07834da9714.png",
-    "static/media/Zafre_Home.jpg": "/portfolio-isaac/build/static/media/Zafre_Home.f1d2bdbf518b0ee5e586.jpg",
-    "index.html": "/portfolio-isaac/build/index.html",
-    "main.3947d053.css.map": "/portfolio-isaac/build/static/css/main.3947d053.css.map",
-    "main.55529d77.js.map": "/portfolio-isaac/build/static/js/main.55529d77.js.map"
+    "main.css": "/portfolio_isaac/static/css/main.3947d053.css",
+    "main.js": "/portfolio_isaac/static/js/main.43a4902d.js",
+    "static/media/BonSaving_Home.png": "/portfolio_isaac/static/media/BonSaving_Home.65ecd53b0ca443d5fba8.png",
+    "static/media/IsaacPng.png": "/portfolio_isaac/static/media/IsaacPng.d3ad0eda5d0a33a710f6.png",
+    "static/media/ImagenFondo.png": "/portfolio_isaac/static/media/ImagenFondo.e7961f9aadf323af321f.png",
+    "static/media/F1_Home.png": "/portfolio_isaac/static/media/F1_Home.255fbee1f07834da9714.png",
+    "static/media/Zafre_Home.jpg": "/portfolio_isaac/static/media/Zafre_Home.f1d2bdbf518b0ee5e586.jpg",
+    "index.html": "/portfolio_isaac/index.html",
+    "main.3947d053.css.map": "/portfolio_isaac/static/css/main.3947d053.css.map",
+    "main.43a4902d.js.map": "/portfolio_isaac/static/js/main.43a4902d.js.map"
   },
   "entrypoints": [
     "static/css/main.3947d053.css",
-    "static/js/main.55529d77.js"
+    "static/js/main.43a4902d.js"
   ]
 }
