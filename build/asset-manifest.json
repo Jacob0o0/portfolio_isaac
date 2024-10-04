@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3947d053.css",
+    "main.js": "/static/js/main.420e487e.js",
+    "static/media/BonSaving_Home.png": "/static/media/BonSaving_Home.65ecd53b0ca443d5fba8.png",
+    "static/media/IsaacPng.png": "/static/media/IsaacPng.d3ad0eda5d0a33a710f6.png",
+    "static/media/ImagenFondo.png": "/static/media/ImagenFondo.e7961f9aadf323af321f.png",
+    "static/media/F1_Home.png": "/static/media/F1_Home.255fbee1f07834da9714.png",
+    "static/media/Zafre_Home.jpg": "/static/media/Zafre_Home.f1d2bdbf518b0ee5e586.jpg",
+    "index.html": "/index.html",
+    "main.3947d053.css.map": "/static/css/main.3947d053.css.map",
+    "main.420e487e.js.map": "/static/js/main.420e487e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3947d053.css",
+    "static/js/main.420e487e.js"
+  ]
+}
