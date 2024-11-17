@@ -8,7 +8,7 @@ import Projects from './Projects.tsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <React.StrictMode basename="portfolio_isaac/">
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
