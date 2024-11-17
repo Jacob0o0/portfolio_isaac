@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio_isaac/static/css/main.3947d053.css",
-    "main.js": "/portfolio_isaac/static/js/main.43a4902d.js",
-    "static/media/BonSaving_Home.png": "/portfolio_isaac/static/media/BonSaving_Home.65ecd53b0ca443d5fba8.png",
+    "main.css": "/portfolio_isaac/static/css/main.3d496bd7.css",
+    "main.js": "/portfolio_isaac/static/js/main.1eb06239.js",
+    "static/media/fondo.png": "/portfolio_isaac/static/media/fondo.563f9e6eea1901b5bb94.png",
     "static/media/IsaacPng.png": "/portfolio_isaac/static/media/IsaacPng.d3ad0eda5d0a33a710f6.png",
-    "static/media/ImagenFondo.png": "/portfolio_isaac/static/media/ImagenFondo.e7961f9aadf323af321f.png",
-    "static/media/F1_Home.png": "/portfolio_isaac/static/media/F1_Home.255fbee1f07834da9714.png",
-    "static/media/Zafre_Home.jpg": "/portfolio_isaac/static/media/Zafre_Home.f1d2bdbf518b0ee5e586.jpg",
+    "static/media/F1_Home.png": "/portfolio_isaac/static/media/F1_Home.b3a35a159e3459551f1a.png",
+    "static/media/BonSaving_Home.png": "/portfolio_isaac/static/media/BonSaving_Home.12f5bc7acea25bd5ca6d.png",
+    "static/media/Zafre_Home.jpg": "/portfolio_isaac/static/media/Zafre_Home.f73f166dedf134a17b6e.jpg",
+    "static/media/bonsaving_p.png": "/portfolio_isaac/static/media/bonsaving_p.4aef641f467f101a53c3.png",
+    "static/media/conexxion_p.png": "/portfolio_isaac/static/media/conexxion_p.206a74794c0cf40f71ea.png",
+    "static/media/poketrash_p.png": "/portfolio_isaac/static/media/poketrash_p.71030ba62ce84c5f5d33.png",
     "index.html": "/portfolio_isaac/index.html",
-    "main.3947d053.css.map": "/portfolio_isaac/static/css/main.3947d053.css.map",
-    "main.43a4902d.js.map": "/portfolio_isaac/static/js/main.43a4902d.js.map"
+    "main.3d496bd7.css.map": "/portfolio_isaac/static/css/main.3d496bd7.css.map",
+    "main.1eb06239.js.map": "/portfolio_isaac/static/js/main.1eb06239.js.map"
   },
   "entrypoints": [
-    "static/css/main.3947d053.css",
-    "static/js/main.43a4902d.js"
+    "static/css/main.3d496bd7.css",
+    "static/js/main.1eb06239.js"
   ]
 }
