@@ -50,7 +50,7 @@ function Home() {
         <div id='top' className='col-span-8 w-full h-16 flex absolute bg-gradient-to-b from-gradienteI to-gradienteF/0 opacity-50 z-10'>
         </div>
 
-        <div className='w-full h-screen relative grid grid-cols-8 content-between p-16'>
+        <div className='w-full h-screen relative grid grid-cols-8 content-between p-16 lg:p-20'>
             <div id='top' className='col-span-8 w-full h-16 flex'>
             </div>
 
@@ -72,7 +72,7 @@ function Home() {
             </div>
         </div>
 
-        <div className='w-full h-auto relative grid grid-cols-4 sm:grid-cols-8 content-center items-center gap-10 p-16'>
+        <div className='w-full h-auto relative grid grid-cols-4 sm:grid-cols-8 content-center items-center gap-10 p-16 lg:p-20'>
 
             <div className='col-span-4 z-10'>
                 <p className='text-2xl font-medium '>Soy Diseñador gráfico y UX-UI con base en la CDMX, entusiasmado por dar vida a ideas creativas. Disfruto colaborar con equipos multidisciplinarios para lograr resultados sorprendentes. Mi objetivo es crear diseños que no solo sean visualmente atractivos, sino también efectivos.</p>

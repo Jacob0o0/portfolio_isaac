@@ -177,7 +177,7 @@ function Projects() {
             </div>
         </div>
 
-        <div className='w-full h-screen sm:h-auto relative flex flex-col'>
+        <div className='w-full h-auto sm:h-auto relative flex flex-col'>
             <div className='flex items-center justify-between h-32 w-full px-6 mb-10'>
                 <h4 className="group flex items-center text-5xl font-extrabold cursor-pointer transition-all duration-500 ease-in-out">
                     {/* Flecha que aparece al hacer hover */}
